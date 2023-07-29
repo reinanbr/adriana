@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "adriana"
+version = "0.1.0"
+description = ""
+authors = ["reinanbr <perseu912@gmail.com>"]
+license = "bsd3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9.13"
+numpy = "^1.25.1"
+scipy = "^1.11.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
