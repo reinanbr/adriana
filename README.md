@@ -1,6 +1,6 @@
  <div align='center'>
 
- <img  height='400px' width='460px' src='https://github.com/reinanbr/logos/blob/main/IMG_20230717_013052.png?raw=true'>
+ <img  height='400px' width='460px' src='https://github.com/reinanbr/logos/blob/main/logo.jpg?raw=true'>
 
 <h1>Adriana</h1>
 
