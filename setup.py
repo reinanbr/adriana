@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     readme = fh.read()
 
 setup(name='adrianna',
-    version='0.0.7.1',
+    version='0.0.7.2',
     url='https://github.com/reinanbr/adriana',
     license='MIT License',
     author='Reinan Br',
